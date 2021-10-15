@@ -1,0 +1,22 @@
+1.page d'acceil
+index.html
+2. contact
+   contact.html
+   lien dans index.html vers contact
+
+3. oubli
+   lien retour dans contact.html
+4. catalogue
+   créér une branche 
+   caralogue.html
+   admin/admin-catalogue.html
+
+   bug à corriger sur master
+   ajouter bug corriger sur index.html
+   --> commit sur master
+
+   --> retour à la branche catalogue 
+   lien vers catalogue dans index.html
+   lien retour
+
+   fusion avec master.

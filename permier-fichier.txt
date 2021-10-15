@@ -1,0 +1,2 @@
+début de projet 
+git config --global user.name maamar
